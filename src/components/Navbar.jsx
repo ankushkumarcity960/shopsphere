@@ -13,7 +13,7 @@ const Navbar = () => {
       
       <NavLink to="/">
         <div className="ml-5">
-          <img src="../logo.png" className=" h-20 object-contain"/>
+          <img src="../logo.png"  alt="ShopSphere Logo" className=" h-20 object-contain"/>
         </div>
       </NavLink>
 
